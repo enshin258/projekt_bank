@@ -1,0 +1,14 @@
+﻿  bank.cpp
+c:\users\kubaw\desktop\wat\programowanie obiektowe\projekt_bank\projekt_bank\projekt_bank\bank.cpp(171): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+c:\users\kubaw\desktop\wat\programowanie obiektowe\projekt_bank\projekt_bank\projekt_bank\bank.cpp(197): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+c:\users\kubaw\desktop\wat\programowanie obiektowe\projekt_bank\projekt_bank\projekt_bank\bank.cpp(213): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+c:\users\kubaw\desktop\wat\programowanie obiektowe\projekt_bank\projekt_bank\projekt_bank\bank.cpp(253): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kubaw\desktop\wat\programowanie obiektowe\projekt_bank\projekt_bank\projekt_bank\bank.cpp(272): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kubaw\desktop\wat\programowanie obiektowe\projekt_bank\projekt_bank\projekt_bank\bank.cpp(284): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+c:\users\kubaw\desktop\wat\programowanie obiektowe\projekt_bank\projekt_bank\projekt_bank\bank.cpp(285): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+c:\users\kubaw\desktop\wat\programowanie obiektowe\projekt_bank\projekt_bank\projekt_bank\bank.cpp(438): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kubaw\desktop\wat\programowanie obiektowe\projekt_bank\projekt_bank\projekt_bank\bank.cpp(447): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kubaw\desktop\wat\programowanie obiektowe\projekt_bank\projekt_bank\projekt_bank\bank.cpp(459): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kubaw\desktop\wat\programowanie obiektowe\projekt_bank\projekt_bank\projekt_bank\bank.cpp(461): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kubaw\desktop\wat\programowanie obiektowe\projekt_bank\projekt_bank\projekt_bank\bank.cpp(482): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  projekt_bank.vcxproj -> C:\Users\kubaw\Desktop\WAT\Programowanie Obiektowe\projekt_bank\projekt_bank\Debug\projekt_bank.exe

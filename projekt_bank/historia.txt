@@ -1,0 +1,8 @@
+Id_konta: 0 Operacja: Przelew z tego konta kwoty : 663 zl na konto o ID: 0 Tue Dec 18 18:24:57 2018
+
+Id_konta: 1 Operacja: Przelew z tego konta kwoty : 450 zl na konto o ID: 1 Tue Dec 18 16:52:01 2018
+Id_konta: 1 Operacja: Wplata na konto kwoty : 60 zl Tue Dec 18 16:52:44 2018
+Id_konta: 1 Operacja: Przelew na to konto kwoty : 663 zl z konta o ID: 1 Tue Dec 18 18:24:57 2018
+
+Id_konta: 2 Operacja: Przelew na to konto kwoty : 450 zl z konta o ID: 2 Tue Dec 18 16:52:01 2018
+Id_konta: 2 Operacja: Wyplata z konta kwoty : 150 zl Tue Dec 18 16:52:38 2018
